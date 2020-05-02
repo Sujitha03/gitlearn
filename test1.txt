@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E8F8-C89B
+
+ Directory of C:\Users\BHUPESH\Desktop\My project
+
+05/02/2020  10:54 AM    <DIR>          .
+05/02/2020  10:54 AM    <DIR>          ..
+05/02/2020  10:54 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  15,473,037,312 bytes free
